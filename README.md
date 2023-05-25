@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hey,+this+is+fezinho;27+years+old%2C+Producer+and+Dev;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/dopezinho)
 
 
 <div align="center">  
