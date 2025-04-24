@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hey,+this+is+fezinho;27+years+old%2C+Producer+and+Dev;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hey,+this+is+fezinho;29+years+old%2C+Producer+and+Dev;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dopezinho&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Dopezinho github stats" /> 
